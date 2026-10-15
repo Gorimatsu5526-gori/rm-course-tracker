@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "レーシングマスター コース出現統計",
+  "short_name": "RMコース統計",
+  "description": "ランクレースに登場したコースの出現回数をカテゴリごとに集計",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#0b1120",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
